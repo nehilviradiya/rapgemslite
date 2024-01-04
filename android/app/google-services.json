@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "678471697285",
+    "project_id": "rapgemslite",
+    "storage_bucket": "rapgemslite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678471697285:android:a9647916da3ef418f8faec",
+        "android_client_info": {
+          "package_name": "com.example.rapgemslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678471697285-sb61rhd05htp9nkdb40skbhrhj5q1t7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7STkmOdsVo4oIaBCGer-GV-SlkH8lxZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678471697285-sb61rhd05htp9nkdb40skbhrhj5q1t7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
